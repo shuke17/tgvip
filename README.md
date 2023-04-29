@@ -1,9 +1,9 @@
 ### Telegram自动开会员源代码 php + golang  + e语言 ，这是一个完整的24小时全自动开通TG会员的例子
 
 ##### 作者
-    TG：@gd801  
-    电报群：@phpTRON   
-    电报社区：www.telegbot.org
+TG：<a href="https://t.me/gd801">@gd801</a>  
+电报群：<a href="https://t.me/phpTRON">@phpTRON</a>     
+电报社区：<a href="www.telegbot.org">www.telegbot.org</a>   
 	
 ##### 图片示例
 <img src="https://github.com/smalpony/telegramVip/blob/main/%E6%B5%81%E7%A8%8B%E6%95%B0%E6%8D%AE%E7%A4%BA%E4%BE%8B.png">
