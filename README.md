@@ -3,7 +3,7 @@
 ##### 作者
 TG：<a href="https://t.me/gd801">@gd801</a>  
 电报群：<a href="https://t.me/phpTRON">@phpTRON</a>     
-电报社区：<a href="www.telegbot.org">www.telegbot.org</a>   
+电报社区(建立中..)：<a href="www.telegbot.org">www.telegbot.org</a>   
 	
 ##### 图片示例
 <img src="https://github.com/smalpony/telegramVip/blob/main/%E6%B5%81%E7%A8%8B%E6%95%B0%E6%8D%AE%E7%A4%BA%E4%BE%8B.png">
